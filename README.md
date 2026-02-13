@@ -23,7 +23,7 @@
 ---
 
 ## 📌 Featured Projects  
-🚀 [**My Portfolio**](https://muhammadsharooz.github.io/Porfolio/) – React-based personal portfolio showcasing skills & projects.  
+🚀 [**My Portfolio**](https://muhammadsharooz.surge.sh) – React-based personal portfolio showcasing skills & projects.  
 🛒 [**E-Commerce App**](https://myseashellbooks.com/) – Full WooCommerce store with custom design & optimized shopping experience.  
 💎 [**W-Aesthetics Web**](https://waestheticsky.com/) – Modern, fully responsive WordPress site with sleek UI & easy CMS management.  
 
